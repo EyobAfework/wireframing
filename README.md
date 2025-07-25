@@ -113,3 +113,30 @@ High-fidelity wireframes are more detailed and closely resemble the final produc
 
 **Type:** _High-Fidelity_  
 **Reason:** This wireframe includes detailed UI elements such as buttons, icons, real text, and potentially brand colors or styling. It closely resembles the final product design, making it suitable for developer handoff, usability testing, and stakeholder presentations.
+
+## 🛠️ Popular Wireframing Tools
+
+Several tools are available for creating wireframes, ranging from simple sketching apps to full-featured design platforms. Below are some of the most popular wireframing tools used by professionals and teams:
+
+### 🔹 Figma (Recommended)
+[Figma](https://www.figma.com) is a powerful, cloud-based design and prototyping tool widely used for wireframing, UI/UX design, and collaboration.
+
+**Key Features:**
+- 🧩 **Drag-and-drop interface** for creating wireframes and mockups quickly
+- 🤝 **Real-time collaboration** allowing multiple team members to edit simultaneously
+- 💬 **Commenting and feedback tools** for seamless design reviews
+- 🎯 **Design-to-code handoff** with developer-friendly inspection features
+- ☁️ **Cloud-based access** so you can work from any device, anywhere
+
+**Why Figma is Great for Wireframing:**
+Figma’s flexibility makes it easy to start with low-fidelity wireframes and evolve them into high-fidelity designs—all in the same environment. Its collaborative features help teams stay aligned, making it an ideal choice for both solo designers and cross-functional teams.
+
+### Other Popular Tools:
+- **Balsamiq** – Focused on low-fidelity wireframes with a hand-drawn aesthetic
+- **Adobe XD** – A powerful vector-based tool for wireframes and interactive prototypes
+- **Sketch** – A Mac-only design tool with strong UI/UX capabilities
+- **Draw.io (diagrams.net)** – Free tool ideal for flowcharts and basic wireframes
+
+---
+
+
