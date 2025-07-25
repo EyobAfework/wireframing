@@ -20,6 +20,38 @@ Wireframes are typically low-fidelity and help teams quickly conceptualize and i
 
 ---
 
+## 🧩 Key Elements of a Wireframe
+
+Understanding the key components of a wireframe helps ensure your design is functional and user-friendly. Below are the main elements commonly found in wireframes:
+
+### 1. **Layout Structure**
+Defines the arrangement of elements on a page.
+
+📌 **Example**: Placing a sidebar on the left and main content in the center of the page. This helps users understand where to find navigation options versus the primary content area.
+
+---
+
+### 2. **Navigation**
+Outlines how users move between pages or sections of the application.
+
+📌 **Example**: Including a top navigation bar with links to “Home,” “About,” and “Contact” helps users quickly access different sections of the site.
+
+---
+
+### 3. **Content Placement**
+Determines where text, images, videos, or other media will appear.
+
+📌 **Example**: Positioning a product title and price at the top of a product detail page ensures users see key information immediately.
+
+---
+
+### 4. **Functionality**
+Represents interactive elements like buttons, forms, and search fields.
+
+📌 **Example**: A "Search" input box with a magnifying glass icon that allows users to filter product listings helps improve the overall user experience.
+
+---
+
 ## 📂 Repository Contents
 
 This repository includes:
@@ -35,6 +67,4 @@ You can start wireframing using free tools like:
 - [Figma](https://www.figma.com)
 - [Draw.io](https://draw.io)
 - [Balsamiq](https://balsamiq.com)
-
-
 
