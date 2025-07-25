@@ -68,3 +68,48 @@ You can start wireframing using free tools like:
 - [Draw.io](https://draw.io)
 - [Balsamiq](https://balsamiq.com)
 
+## 🧱 Types of Wireframes
+
+Wireframes come in different levels of detail depending on the stage of the design process. The two most common types are:
+
+### 🔹 Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, rough sketches or block diagrams used in the early stages of design. They prioritize structure and layout over aesthetics.
+
+**Characteristics:**
+- Black and white (or grayscale)
+- No images or styling
+- Placeholder content (e.g., "Lorem ipsum")
+- Boxes, lines, and basic shapes
+
+**Used When:**
+- Brainstorming layout and functionality
+- Gathering initial feedback
+- Rapid iteration with stakeholders or team
+
+📌 **Example Use Case**: Sketching a homepage layout with just headers, navigation, and content blocks before any branding is applied.
+
+---
+
+### 🔸 High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and closely resemble the final product. They often include actual content, UI elements, and visual styles.
+
+**Characteristics:**
+- Real text and data
+- Buttons, icons, and functional elements
+- May include brand colors and fonts
+- Sometimes interactive (clickable)
+
+**Used When:**
+- Preparing for usability testing
+- Handing off designs to developers
+- Finalizing user flows and interface logic
+
+📌 **Example Use Case**: Designing a full-featured booking form with real input fields and validation states.
+
+## 🧐 What Type of Wireframe Is This?
+
+🔗 [View the wireframe on Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=sTAeZGS3VrBemZUd-0)
+
+
+**Type:** _High-Fidelity_  
+**Reason:** This wireframe includes detailed UI elements such as buttons, icons, real text, and potentially brand colors or styling. It closely resembles the final product design, making it suitable for developer handoff, usability testing, and stakeholder presentations.
